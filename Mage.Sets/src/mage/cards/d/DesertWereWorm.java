@@ -64,7 +64,6 @@ class DesertWereWormTriggeredAbility extends TriggeredAbilityImpl {
 
     protected DesertWereWormTriggeredAbility() {
         super(Zone.BATTLEFIELD, new UntapAllEffect(StaticFilters.FILTER_ATTACKING_CREATURES));
-//        super(Zone.BATTLEFIELD, new AdditionalCombatPhaseEffect().setText("After this combat phase, there is an additional combat phase"));
         this.addEffect(new AdditionalCombatPhaseEffect().setText("After this combat phase, there is an additional combat phase"));
 
         this.setTriggerPhrase("Whenever you attack with creatures with total power 12 or greater for the first time each turn, ");
