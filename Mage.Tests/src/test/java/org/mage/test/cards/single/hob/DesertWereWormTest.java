@@ -6,8 +6,7 @@ import org.junit.Test;
 import org.mage.test.serverside.base.CardTestPlayerBase;
 
 /**
- *
- * @author anonymous
+ * @author Meowcelia
  */
 public class DesertWereWormTest extends CardTestPlayerBase {
 
