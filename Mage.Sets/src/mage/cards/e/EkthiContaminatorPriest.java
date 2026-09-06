@@ -16,7 +16,7 @@ import mage.filter.StaticFilters;
 import mage.filter.common.FilterCreaturePermanent;
 
 /**
- * @author SobiechQ
+ * @author Meowcelina
  */
 public final class EkthiContaminatorPriest extends CardImpl {
     private static final FilterCreaturePermanent filter = new FilterCreaturePermanent(SubType.PHYREXIAN, "Phyrexians");

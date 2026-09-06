@@ -7,7 +7,7 @@ import org.junit.Test;
 import org.mage.test.serverside.base.CardTestPlayerBase;
 
 /**
- * @author SobiechQ
+ * @author Meowcelina
  */
 public class EkthiContaminatorPriestTest extends CardTestPlayerBase {
 
